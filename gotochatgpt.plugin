@@ -1,0 +1,12 @@
+# For more info visit the article https://theawless.github.io/How-to-write-plugins-for-gedit/
+# This file needs to be placed like ~/.local/share/gedit/plugins/example.plugin
+
+[Plugin]
+Loader=python3
+Module=gotochatgpt
+IAge=3
+Name=GoToChatGPT
+Icon=gotochatgpt
+Description=Plugint to work with chat gpt.
+Authors= Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>
+Copyright=Copyright 2016 Fernando Pujaico Rivera <fernando.pujaico.rivera@gmail.com>
